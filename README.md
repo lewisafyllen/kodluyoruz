@@ -1,2 +1,2 @@
-# kodluyoruz
-kodluyoruz eğitimi projeleri
+# patika
+gizli patika ödev ve projeleri 
